@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:666946203393:android:5461b637a409b013e1b500",
+        "android_client_info": {
+          "package_name": "sammy.mutahi.gicheru.childSpyApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666946203393-tvn90hsdgml009f149j6k6o4qnh6ht40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFrRXhlTf7_aWd8ucQgsvkCSyEVdJZHtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666946203393-tvn90hsdgml009f149j6k6o4qnh6ht40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:666946203393:android:1d198957540d275ce1b500",
         "android_client_info": {
           "package_name": "sammy.mutahi.spyapp"
