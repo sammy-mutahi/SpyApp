@@ -8,9 +8,7 @@ import sammy.mutahi.gicheru.childSpyApp.services.accessibilityData.Accessibility
 import dagger.Component
 import javax.inject.Singleton
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 @Singleton
 @Component(modules = [AppModule::class, FirebaseModule::class])
 interface AppComponent {

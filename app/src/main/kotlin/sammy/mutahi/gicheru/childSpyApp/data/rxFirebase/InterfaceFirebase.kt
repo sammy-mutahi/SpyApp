@@ -11,9 +11,7 @@ import io.reactivex.Flowable
 import io.reactivex.Maybe
 import io.reactivex.Single
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 interface InterfaceFirebase {
 
     fun getUser(): FirebaseUser?

@@ -20,9 +20,7 @@ import com.pawegio.kandroid.e
 import java.io.IOException
 import java.util.Collections
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 @SuppressLint("ViewConstructor")
 internal class CameraPreview(context: Context, private val mCameraCallbacks: CameraCallbacks) : SurfaceView(context), SurfaceHolder.Callback {
 

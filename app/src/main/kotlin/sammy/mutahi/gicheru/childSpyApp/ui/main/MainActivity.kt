@@ -24,9 +24,7 @@ import sammy.mutahi.gicheru.childSpyApp.R
 import sammy.mutahi.gicheru.childSpyApp.utils.ConstFun.openUseAccessSettings
 import sammy.mutahi.gicheru.childSpyApp.utils.checkForegroundApp.CheckPermission.hasUsageStatsPermission
 
-/**
- * Created by luis rafael on 27/03/18.
- */
+
 class MainActivity : BaseActivity() {
 
     private val btnHideApp: Button by bindView(R.id.btn_hide_app)

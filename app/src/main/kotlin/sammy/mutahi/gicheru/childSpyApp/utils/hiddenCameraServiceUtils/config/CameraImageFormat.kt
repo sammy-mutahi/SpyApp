@@ -2,9 +2,7 @@ package sammy.mutahi.gicheru.childSpyApp.utils.hiddenCameraServiceUtils.config
 
 import android.support.annotation.IntDef
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 class CameraImageFormat{
 
     init {

@@ -7,9 +7,7 @@ import sammy.mutahi.gicheru.childSpyApp.services.sms.SmsService
 import sammy.mutahi.gicheru.childSpyApp.services.social.MonitorService
 import dagger.Component
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 @PerService
 @Component(dependencies = [AppComponent::class], modules = [ServiceModule::class])
 interface ServiceComponent {

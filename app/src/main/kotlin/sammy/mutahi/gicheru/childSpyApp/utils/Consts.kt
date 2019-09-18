@@ -1,8 +1,6 @@
 package sammy.mutahi.gicheru.childSpyApp.utils
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 object Consts {
 
     const val TAG="IsTheApp"
@@ -41,6 +39,6 @@ object Consts {
     const val STATE_CALL_START = 2
     const val STATE_CALL_END = 3
 
-    const val RESTART_MONITOR_RECEIVER ="com.github.midros.child.receiver.RESTART_MONITOR_RECEIVER"
+    const val RESTART_MONITOR_RECEIVER ="sammy.mutahi.gicheru.childSpyApp.receiver.RESTART_MONITOR_RECEIVER"
 
 }

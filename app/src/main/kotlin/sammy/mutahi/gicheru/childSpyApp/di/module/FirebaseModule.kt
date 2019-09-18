@@ -10,9 +10,7 @@ import com.google.firebase.storage.StorageReference
 import dagger.Module
 import dagger.Provides
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 @Module
 class FirebaseModule {
 

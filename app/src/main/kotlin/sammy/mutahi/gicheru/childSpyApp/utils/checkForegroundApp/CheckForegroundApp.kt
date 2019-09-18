@@ -8,9 +8,7 @@ import android.content.Context
 import android.os.Build
 import sammy.mutahi.gicheru.childSpyApp.utils.checkForegroundApp.CheckPermission.hasUsageStatsPermission
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 class CheckForegroundApp : CheckDetector {
 
     @TargetApi(Build.VERSION_CODES.LOLLIPOP_MR1)

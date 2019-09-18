@@ -23,9 +23,7 @@ import java.io.File
 import java.io.IOException
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 27/03/18.
- */
+
 class InteractorCalls<S : InterfaceServiceCalls> @Inject constructor(context: Context, firebase: InterfaceFirebase) : BaseInteractorService<S>(context, firebase), InterfaceInteractorCalls<S> {
 
     private var recorder: MediaRecorder = MediaRecorder()

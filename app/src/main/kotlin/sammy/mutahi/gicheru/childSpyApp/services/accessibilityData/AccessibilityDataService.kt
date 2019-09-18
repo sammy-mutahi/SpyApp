@@ -17,9 +17,7 @@ import com.pawegio.kandroid.i
 import javax.inject.Inject
 
 
-/**
- * Created by luis rafael on 17/03/18.
- */
+
 class AccessibilityDataService : AccessibilityService(), LocationListener {
 
     @Inject

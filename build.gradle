@@ -26,7 +26,8 @@ allprojects {
     }
 
     ext {
-        PACKAGE_CHECK_SOCIAL = "\"YOU_NETWORK_SOCIAL\""
+        PACKAGE_CHECK_SOCIAL = "\"https://www.whatsapp.com/\""
+                ""
     }
 
 }

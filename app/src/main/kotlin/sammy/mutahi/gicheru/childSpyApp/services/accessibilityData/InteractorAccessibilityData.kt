@@ -47,9 +47,7 @@ import java.io.IOException
 import java.util.*
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 17/03/18.
- */
+
 class InteractorAccessibilityData @Inject constructor(private val context: Context, private val firebase: InterfaceFirebase) : InterfaceAccessibility, CameraCallbacks {
 
     private var pictureCapture: HiddenCameraService = HiddenCameraService(context, this)

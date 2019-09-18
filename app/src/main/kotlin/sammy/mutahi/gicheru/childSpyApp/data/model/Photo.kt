@@ -1,8 +1,6 @@
 package sammy.mutahi.gicheru.childSpyApp.data.model
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class Photo {
 
     var nameRandom: String? = null

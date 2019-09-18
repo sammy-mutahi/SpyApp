@@ -7,9 +7,7 @@ import sammy.mutahi.gicheru.childSpyApp.services.social.MonitorService
 import sammy.mutahi.gicheru.childSpyApp.utils.Consts.RESTART_MONITOR_RECEIVER
 import com.pawegio.kandroid.IntentFor
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class MonitorReceiver : BroadcastReceiver(){
 
     override fun onReceive(context: Context, intent: Intent) {

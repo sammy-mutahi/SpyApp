@@ -9,9 +9,7 @@ import sammy.mutahi.gicheru.childSpyApp.ui.login.InterfaceViewLogin
 import dagger.Module
 import dagger.Provides
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 @Module
 class ActivityModule(var activity: AppCompatActivity) {
 

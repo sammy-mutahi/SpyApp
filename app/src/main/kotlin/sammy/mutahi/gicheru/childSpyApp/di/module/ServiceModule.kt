@@ -12,9 +12,7 @@ import sammy.mutahi.gicheru.childSpyApp.services.sms.InterfaceServiceSms
 import dagger.Module
 import dagger.Provides
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 @Module
 class ServiceModule(var service:Service) {
 

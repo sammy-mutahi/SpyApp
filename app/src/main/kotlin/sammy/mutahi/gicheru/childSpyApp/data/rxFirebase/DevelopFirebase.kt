@@ -18,9 +18,7 @@ import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.RxFirebaseAuth.rxSignInW
 import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.RxFirebaseDatabase.rxObserveValueEvent
 import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.RxFirebaseStorage.rxPutFile
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class DevelopFirebase @Inject constructor(private val auth: FirebaseAuth,
                                           private val dataRef: DatabaseReference,
                                           private val stoRef: StorageReference) : InterfaceFirebase {

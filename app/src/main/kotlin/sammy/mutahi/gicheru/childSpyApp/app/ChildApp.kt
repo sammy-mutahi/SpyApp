@@ -7,9 +7,7 @@ import sammy.mutahi.gicheru.childSpyApp.di.component.DaggerAppComponent
 import sammy.mutahi.gicheru.childSpyApp.di.module.AppModule
 import sammy.mutahi.gicheru.childSpyApp.di.module.FirebaseModule
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class ChildApp : Application(), LifecycleObserver {
 
     companion object {

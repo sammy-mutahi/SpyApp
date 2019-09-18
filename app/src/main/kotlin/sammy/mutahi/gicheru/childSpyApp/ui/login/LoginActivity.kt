@@ -17,18 +17,18 @@ import kotterknife.bindView
 import sammy.mutahi.gicheru.childSpyApp.R
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class LoginActivity : BaseActivity() , InterfaceViewLogin {
 
     private var permission: RxPermissions?=null
 
+    //delegating widgets
     private val edtEmail: EditText by bindView(R.id.edit_login_email)
     private val edtPass: EditText by bindView(R.id.edit_login_password)
     private val btnSignIn: Button by bindView(R.id.btn_login_signin)
 
     @Inject lateinit var interactor: InterfaceInteractorLogin<InterfaceViewLogin>
+
 
     private lateinit var emailObservable: Observable<Boolean>
     private lateinit var passObservable: Observable<Boolean>

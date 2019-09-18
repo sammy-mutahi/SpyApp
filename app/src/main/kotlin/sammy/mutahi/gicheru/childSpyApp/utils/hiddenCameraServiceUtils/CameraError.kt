@@ -2,9 +2,7 @@ package sammy.mutahi.gicheru.childSpyApp.utils.hiddenCameraServiceUtils
 
 import android.support.annotation.IntDef
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 class CameraError private constructor() {
 
     init {

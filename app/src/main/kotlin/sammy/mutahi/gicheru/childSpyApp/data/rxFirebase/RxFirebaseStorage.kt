@@ -5,9 +5,7 @@ import com.google.firebase.storage.StorageReference
 import com.google.firebase.storage.UploadTask
 import io.reactivex.Single
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 object RxFirebaseStorage {
 
     fun StorageReference.rxPutFile(uri: Uri): Single<UploadTask.TaskSnapshot> {

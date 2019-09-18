@@ -5,9 +5,7 @@ import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.InterfaceFirebase
 import com.google.firebase.auth.FirebaseUser
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 22/03/18.
- */
+
 open class BaseInteractorService<S : InterfaceService> @Inject constructor(private var context: Context, private var firebase: InterfaceFirebase) : InterfaceInteractorService<S> {
 
     private var service: S? = null

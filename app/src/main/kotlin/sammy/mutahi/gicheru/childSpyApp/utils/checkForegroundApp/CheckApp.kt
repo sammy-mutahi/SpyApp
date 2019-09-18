@@ -3,9 +3,7 @@ package sammy.mutahi.gicheru.childSpyApp.utils.checkForegroundApp
 import android.content.Context
 import com.pawegio.kandroid.runOnUiThread
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 class CheckApp(private val context: Context, private val action: (app: String?) -> Unit) {
 
     private val detector: CheckDetector = CheckForegroundApp()

@@ -17,9 +17,7 @@ import io.reactivex.disposables.Disposable
 import sammy.mutahi.gicheru.childSpyApp.R
 import sammy.mutahi.gicheru.childSpyApp.di.component.DaggerActivityComponent
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 abstract class BaseActivity : AppCompatActivity(), InterfaceView {
 
 

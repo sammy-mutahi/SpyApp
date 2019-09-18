@@ -9,9 +9,7 @@ import com.pawegio.kandroid.e
 import java.io.File
 import java.lang.Long.parseLong
 
-/**
- * Created by luis rafael on 27/03/18.
- */
+
 object FileHelper{
     fun Context.getFilePath(): String =
             if (externalCacheDir == null) cacheDir.absolutePath

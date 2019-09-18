@@ -5,9 +5,7 @@ import android.content.Context
 import dagger.Module
 import dagger.Provides
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 @Module
 class AppModule(val app : Application){
 

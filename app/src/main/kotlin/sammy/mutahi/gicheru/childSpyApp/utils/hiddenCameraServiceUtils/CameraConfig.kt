@@ -9,9 +9,7 @@ import sammy.mutahi.gicheru.childSpyApp.utils.hiddenCameraServiceUtils.HiddenCam
 
 import java.io.File
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 class CameraConfig {
 
     private var context: Context? = null

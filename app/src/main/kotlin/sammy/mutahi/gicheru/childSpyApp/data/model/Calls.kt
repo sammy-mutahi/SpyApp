@@ -1,8 +1,6 @@
 package sammy.mutahi.gicheru.childSpyApp.data.model
 
-/**
- * Created by usuario on 27/03/18.
- */
+
 class Calls {
 
     var contact: String? = null

@@ -5,9 +5,7 @@ import sammy.mutahi.gicheru.childSpyApp.di.component.ActivityComponent
 import com.tbruyelle.rxpermissions2.Permission
 import io.reactivex.disposables.Disposable
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 interface InterfaceView {
 
     fun getComponent(): ActivityComponent?

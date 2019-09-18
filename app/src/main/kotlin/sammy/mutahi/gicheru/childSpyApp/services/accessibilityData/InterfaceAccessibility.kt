@@ -2,9 +2,7 @@ package sammy.mutahi.gicheru.childSpyApp.services.accessibilityData
 
 import android.location.Location
 
-/**
- * Created by luis rafael on 17/03/18.
- */
+
 interface InterfaceAccessibility {
 
     fun clearDisposable()

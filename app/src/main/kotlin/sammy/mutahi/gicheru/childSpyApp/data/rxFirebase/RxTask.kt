@@ -8,9 +8,7 @@ import com.google.android.gms.tasks.Task
 import com.pawegio.kandroid.e
 import io.reactivex.MaybeEmitter
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class RxTask<T>(private val emitter: MaybeEmitter<in T>) : OnSuccessListener<T>, OnFailureListener, OnCompleteListener<T> {
 
     override fun onSuccess(res: T?) =

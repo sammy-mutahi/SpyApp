@@ -10,9 +10,7 @@ import com.pawegio.kandroid.IntentFor
 import com.pawegio.kandroid.start
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 27/03/18.
- */
+
 class MonitorService : BaseService() {
 
     private lateinit var appChecker: CheckApp

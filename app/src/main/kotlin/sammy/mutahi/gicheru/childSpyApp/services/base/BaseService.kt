@@ -10,9 +10,7 @@ import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
 import sammy.mutahi.gicheru.childSpyApp.di.component.DaggerServiceComponent
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 abstract class BaseService : Service(), InterfaceService {
 
 

@@ -18,9 +18,7 @@ import kotterknife.bindView
 import sammy.mutahi.gicheru.childSpyApp.R
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 class SocialActivity : BaseActivity() {
 
     private val txtEmail : EditText by bindView(R.id.txt_email_social)

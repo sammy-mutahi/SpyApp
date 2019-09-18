@@ -9,9 +9,7 @@ import sammy.mutahi.gicheru.childSpyApp.utils.Consts.SMS_ADDRESS
 import sammy.mutahi.gicheru.childSpyApp.utils.Consts.SMS_BODY
 
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class SmsReceiver : BroadcastReceiver() {
     override fun onReceive(context: Context, intent: Intent) {
 

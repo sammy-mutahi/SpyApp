@@ -12,9 +12,7 @@ import com.pawegio.kandroid.indeterminateProgressDialog
 import com.pawegio.kandroid.longToast
 import sammy.mutahi.gicheru.childSpyApp.R
 
-/**
- * Created by luis rafael on 18/03/18.
- */
+
 @SuppressLint("StaticFieldLeak")
 class AsyncTaskEnableAccessibility(private val context: Context) : AsyncTask<Void, Boolean, Boolean>() {
 

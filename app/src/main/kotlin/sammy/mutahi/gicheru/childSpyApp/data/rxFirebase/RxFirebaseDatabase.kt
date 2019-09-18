@@ -7,9 +7,7 @@ import com.google.firebase.database.ValueEventListener
 import io.reactivex.BackpressureStrategy
 import io.reactivex.Flowable
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 object RxFirebaseDatabase {
 
     fun Query.rxObserveValueEvent(): Flowable<DataSnapshot> {

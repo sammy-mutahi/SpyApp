@@ -7,9 +7,7 @@ import sammy.mutahi.gicheru.childSpyApp.ui.main.MainActivity
 import sammy.mutahi.gicheru.childSpyApp.ui.social.SocialActivity
 import dagger.Component
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 @PerActivity
 @Component(dependencies = [AppComponent::class], modules = [ActivityModule::class])
 interface ActivityComponent {

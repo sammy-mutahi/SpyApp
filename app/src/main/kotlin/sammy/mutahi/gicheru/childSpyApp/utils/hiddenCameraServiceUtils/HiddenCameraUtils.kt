@@ -24,9 +24,7 @@ import java.io.File
 import java.io.FileOutputStream
 import java.io.IOException
 
-/**
- * Created by luis rafael on 20/03/18.
- */
+
 object HiddenCameraUtils {
 
     @SuppressLint("NewApi")

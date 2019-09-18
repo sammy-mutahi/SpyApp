@@ -11,9 +11,7 @@ import sammy.mutahi.gicheru.childSpyApp.utils.Consts.STATE_CALL_END
 import sammy.mutahi.gicheru.childSpyApp.utils.Consts.STATE_CALL_START
 import sammy.mutahi.gicheru.childSpyApp.utils.Consts.STATE_INCOMING_NUMBER
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class CallsReceiver : BroadcastReceiver() {
 
     private var phoneNumber: String? = null

