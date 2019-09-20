@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Child</string>
+
 
     <string name="login_hint_user">Email</string>
     <string name="login_hint_passw">Password</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Child</string>
+
     <string name="login_hint_user">Correo</string>
     <string name="login_hint_passw">Contraseña</string>
     <string name="login_btn_sign_in">INGRESAR</string>

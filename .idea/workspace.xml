@@ -11,351 +11,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66a28f54-82fe-4ca4-9f4d-6d06abc4a57f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_2_14_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_support_2_14_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_kotterknife_0_1_0_SNAPSHOT_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_auth_3_2_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_ybq_Android_SpinKit_1_2_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_base_license_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_license_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_ads_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_license_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_auth_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_common_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_core_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_firestore_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_iid_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_11_8_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_jakewharton_kotterknife_0_1_0_SNAPSHOT_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/Parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Parent/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpyApp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__androidx_core_core_ktx_0_3_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_kotterknife_0_1_0_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_2_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_kotlin_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_kotlin_2_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_pawegio_kandroid_kandroid_0_8_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_pawegio_kandroid_kandroid_0_8_7_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tbruyelle_rxpermissions2_rxpermissions_0_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tbruyelle_rxpermissions2_rxpermissions_0_9_5_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Child.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/github/midros/child/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/sammy/mutahi/gicheru/childSpyApp/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/app/ChildApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/app/ChildApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/model/Calls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Calls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/model/ChildPhoto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/ChildPhoto.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/model/Location.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Location.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/model/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Photo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/model/Sms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Sms.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/model/Social.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Social.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/rxFirebase/DevelopFirebase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/DevelopFirebase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/rxFirebase/InterfaceFirebase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/InterfaceFirebase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/rxFirebase/RxFirebaseAuth.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseAuth.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/rxFirebase/RxFirebaseDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseDatabase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/rxFirebase/RxFirebaseStorage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseStorage.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/data/rxFirebase/RxTask.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxTask.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/PerActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/PerService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/component/ActivityComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ActivityComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/component/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/AppComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/component/ServiceComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ServiceComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/module/ActivityModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ActivityModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/module/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/AppModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/module/FirebaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/FirebaseModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/di/module/ServiceModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ServiceModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/receiver/CallsReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/CallsReceiver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/receiver/MonitorReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/MonitorReceiver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/receiver/SmsReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/SmsReceiver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/accessibilityData/AccessibilityDataService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/AccessibilityDataService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/accessibilityData/InteractorAccessibilityData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InteractorAccessibilityData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/accessibilityData/InterfaceAccessibility.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InterfaceAccessibility.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/base/BaseInteractorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseInteractorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/base/BaseService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/base/InterfaceInteractorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceInteractorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/base/InterfaceService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/calls/CallsService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/CallsService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/calls/InteractorCalls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InteractorCalls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/calls/InterfaceInteractorCalls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceInteractorCalls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/calls/InterfaceServiceCalls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceServiceCalls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/sms/InteractorSms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InteractorSms.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/sms/InterfaceInteractorSms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceInteractorSms.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/sms/InterfaceServiceSms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceServiceSms.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/sms/SmsService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/SmsService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/social/InteractorMonitorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InteractorMonitorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/social/InterfaceMonitorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InterfaceMonitorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/services/social/MonitorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/MonitorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/base/BaseInteractor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseInteractor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/base/InterfaceInteractor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceInteractor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/base/InterfaceView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceView.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/login/InteractorLogin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InteractorLogin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/login/InterfaceInteractorLogin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceInteractorLogin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/login/InterfaceViewLogin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceViewLogin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/login/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/main/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/main/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/ui/social/SocialActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/social/SocialActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/AsyncTaskEnableAccessibility.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/AsyncTaskEnableAccessibility.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/ConstFun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/Consts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/Consts.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/FileHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/checkForegroundApp/CheckApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/checkForegroundApp/CheckDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckDetector.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/checkForegroundApp/CheckForegroundApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckForegroundApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/checkForegroundApp/CheckPermission.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckPermission.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/CameraCallbacks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraCallbacks.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/CameraConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraConfig.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/CameraError.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraError.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/CameraPreview.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraPreview.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/HiddenCameraService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/HiddenCameraUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/PictureSizeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/PictureSizeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/config/CameraFacing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraFacing.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/config/CameraImageFormat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraImageFormat.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/config/CameraResolution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraResolution.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/github/midros/child/utils/hiddenCameraServiceUtils/config/CameraRotation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraRotation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/app/ChildApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/app/ChildApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Calls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Calls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/ChildPhoto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/ChildPhoto.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Location.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Location.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Photo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Sms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Sms.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Social.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/model/Social.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/DevelopFirebase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/DevelopFirebase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/InterfaceFirebase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/InterfaceFirebase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseAuth.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseAuth.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseDatabase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseStorage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseStorage.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxTask.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxTask.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ActivityComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ActivityComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/AppComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ServiceComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ServiceComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ActivityModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ActivityModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/AppModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/FirebaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/FirebaseModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ServiceModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ServiceModule.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/CallsReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/CallsReceiver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/MonitorReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/MonitorReceiver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/SmsReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/SmsReceiver.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/AccessibilityDataService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/AccessibilityDataService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InteractorAccessibilityData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InteractorAccessibilityData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InterfaceAccessibility.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InterfaceAccessibility.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseInteractorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseInteractorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceInteractorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceInteractorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/CallsService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/CallsService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InteractorCalls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InteractorCalls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceInteractorCalls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceInteractorCalls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceServiceCalls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceServiceCalls.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InteractorSms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InteractorSms.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InteractorMonitorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InteractorMonitorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InterfaceMonitorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InterfaceMonitorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/MonitorService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/MonitorService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseInteractor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseInteractor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceInteractor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceInteractor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceView.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InteractorLogin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InteractorLogin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceInteractorLogin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceInteractorLogin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceViewLogin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceViewLogin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/main/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/main/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/social/SocialActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/social/SocialActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/AsyncTaskEnableAccessibility.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/AsyncTaskEnableAccessibility.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/Consts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/Consts.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckDetector.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckForegroundApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckForegroundApp.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckPermission.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckPermission.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraCallbacks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraCallbacks.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraConfig.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraError.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraError.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraPreview.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraPreview.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/PictureSizeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/PictureSizeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraFacing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraFacing.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraImageFormat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraImageFormat.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraResolution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraResolution.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/github/midros/child/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/sammy/mutahi/gicheru/childSpyApp/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_extensions_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_extensions_1_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__androidx_core_core_ktx_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_0_3_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_andrognito_pinlockview_pinlockview_2_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_andrognito_pinlockview_pinlockview_2_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_cardview_v7_27_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_cardview_v7_27_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_customtabs_27_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_customtabs_27_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_design_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_design_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_multidex_1_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_multidex_1_0_3_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_transition_27_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_android_support_transition_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_answers_1_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_answers_1_4_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_beta_1_2_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_beta_1_2_7_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_2_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_2_9_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_core_2_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_core_2_6_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_daimajia_androidanimations_library_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_daimajia_androidanimations_library_2_3_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_3_2_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_auth_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_common_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_common_3_2_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_database_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_database_3_2_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_firestore_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_firestore_3_2_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_storage_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_firebaseui_firebase_ui_storage_3_2_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_6_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_6_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_clans_fab_1_6_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_clans_fab_1_6_4_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_f0ris_sweetalert_library_1_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_f0ris_sweetalert_library_1_5_3_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_jakob_grabner_Circle_Progress_View_v1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_jakob_grabner_Circle_Progress_View_v1_3_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_github_ybq_Android_SpinKit_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_base_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_base_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_base_license_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_license_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_ads_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_license_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_license_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_auth_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_auth_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_auth_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_common_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_common_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_common_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_core_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_database_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_firestore_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_iid_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_iid_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_iid_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_11_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_license_11_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_google_firebase_firebase_storage_license_11_8_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_jakewharton_kotterknife_0_1_0_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_2_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_kotlin_2_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_kotlin_2_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_pawegio_kandroid_kandroid_0_8_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_pawegio_kandroid_kandroid_0_8_7_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_pnikosis_materialish_progress_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_pnikosis_materialish_progress_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_tbruyelle_rxpermissions2_rxpermissions_0_9_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__com_tbruyelle_rxpermissions2_rxpermissions_0_9_5_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__io_fabric_sdk_android_fabric_1_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__io_fabric_sdk_android_fabric_1_4_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/IsTheApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parent/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Parent/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -363,6 +46,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -371,7 +58,38 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpyApp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpyApp" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpyApp" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpyApp" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
@@ -379,7 +97,17 @@
     <favorites_list name="Child" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -401,15 +129,18 @@
       <find>id</find>
     </findStrings>
   </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/child.jks" />
+    <option name="KEY_ALIAS" value="child" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseStorage.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxTask.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ActivityComponent.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/AppComponent.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ServiceComponent.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ActivityModule.kt" />
@@ -458,14 +189,17 @@
         <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/sammy/mutahi/gicheru/childSpyApp/BuildConfig.java" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/FirebaseModule.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="88" />
-    <option name="width" value="1279" />
-    <option name="height" value="555" />
+    <option name="y" value="27" />
+    <option name="width" value="1299" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -474,9 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -497,9 +228,33 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_24" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-09-20T14:39:20.129Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="finalProductionRelease" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.profiler.active" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="device.picker.selection" value="0432925966004379" />
@@ -532,16 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-    </configuration>
+  <component name="RunManager" selected="Android App.app">
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -611,11 +357,36 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="SpyApp:app [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
@@ -626,6 +397,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SpyApp:app [signingReport]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -653,7 +429,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.34796488" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.34796488" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -669,8 +445,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32952693" />
-      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" weight="0.52931595" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.52931595" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Logcat" order="10" weight="0.5081433" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -680,7 +456,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" weight="0.5637329" />
-      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32960895" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Preview" order="8" weight="0.14445332" />
@@ -724,20 +500,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InteractorCalls.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-693">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/CallsService.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceInteractorService.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -888,25 +650,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/sammy/mutahi/gicheru/childSpyApp/BuildConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="80" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/sammy/mutahi/gicheru/childSpyApp/BuildConfig.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-480" />
       </provider>
       <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -1087,6 +836,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-es/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
         </state>
       </provider>
     </entry>
