@@ -15,6 +15,7 @@ import io.reactivex.Observable
 import io.reactivex.functions.BiFunction
 import kotterknife.bindView
 import sammy.mutahi.gicheru.childSpyApp.R
+import sammy.mutahi.gicheru.childSpyApp.ui.dashboard.MainDashBoard
 import javax.inject.Inject
 
 
@@ -36,7 +37,7 @@ class LoginActivity : BaseActivity() , InterfaceViewLogin {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)
+        setContentView(R.layout.login_register)
         getComponent()!!.inject(this)
         interactor.onAttach(this)
         permission = RxPermissions(this)
@@ -52,7 +53,7 @@ class LoginActivity : BaseActivity() , InterfaceViewLogin {
 
     override fun onStart() {
         super.onStart()
-        if (interactor.user()!=null) startAndFinishActivity<MainActivity>()
+        if (interactor.user()!=null) startAndFinishActivity<MainDashBoard>()
     }
 
     private fun onClickLogin(){
@@ -62,6 +63,7 @@ class LoginActivity : BaseActivity() , InterfaceViewLogin {
                         sigIn()
                     }}
         }
+
     }
 
     private fun sigIn(){
@@ -70,7 +72,7 @@ class LoginActivity : BaseActivity() , InterfaceViewLogin {
 
     override fun successResult(boolean: Boolean) {
         if (boolean){
-            startAndFinishActivity<MainActivity>()
+            startAndFinishActivity<MainDashBoard>()
         }else{
             showError(getString(R.string.login_failed_try_again_later))
         }

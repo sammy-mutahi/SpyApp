@@ -13,7 +13,7 @@ import java.lang.Long.parseLong
 object FileHelper{
     fun Context.getFilePath(): String =
             if (externalCacheDir == null) cacheDir.absolutePath
-            else externalCacheDir.absolutePath
+            else externalCacheDir!!.absolutePath
 
     @Throws(Exception::class)
     fun Context.getFileName(number: String?,dateTime:String?): String {
@@ -49,8 +49,8 @@ object FileHelper{
 
         val names = contentResolver.query(uri, projection, null, null, null)
 
-        val indexName = names.getColumnIndex(ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME)
-        val indexNumber = names.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER)
+        val indexName = names!!.getColumnIndex(ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME)
+        val indexNumber = names!!.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER)
 
         if (names.count > 0) {
             names.moveToFirst()

@@ -6,9 +6,7 @@ import sammy.mutahi.gicheru.childSpyApp.utils.Consts.SMS_ADDRESS
 import sammy.mutahi.gicheru.childSpyApp.utils.Consts.SMS_BODY
 import javax.inject.Inject
 
-/**
- * Created by luis rafael on 13/03/18.
- */
+
 class SmsService : BaseService(), InterfaceServiceSms {
 
     @Inject

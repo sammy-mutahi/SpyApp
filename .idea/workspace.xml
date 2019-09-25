@@ -6,13 +6,57 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Mai" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66a28f54-82fe-4ca4-9f4d-6d06abc4a57f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpyApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_PhilJay_MPAndroidChart_v3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_zxing_core_3_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_dm7_barcodescanner_core_1_9_8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_dm7_barcodescanner_zxing_1_9_8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/GenerateQrCodeActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/MainDashBoard.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/ScanQrCodeActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/ScannedActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/UserAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/EncryptionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/QRCodeHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/models/UserObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_login_bk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/login_button_bk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/login_shape_bk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/back_arrow_tale_vector_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/flash_off_vector_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/flash_on_vector_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_cash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_cheque.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_credit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dropdown_arrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_paypal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_button_bk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_shape_bk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/reports_header_bk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/square_primary_button_drawable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_generate_qr_code.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_dash_board.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_scan_qr_code.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_scanned.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/card_sales.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/login_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_dash_board.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -26,19 +70,29 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_1_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_license_11_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_license_11_8_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_11_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_11_8_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_11_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_11_8_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_license_11_8_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_license_11_8_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Child.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceInteractorSms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceInteractorSms.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceServiceSms.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceServiceSms.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/SmsService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/SmsService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraRotation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraRotation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +103,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_API_25" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -97,14 +151,42 @@
     <favorites_list name="Child" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/MainDashBoard.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/UserAdapter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/models/UserObject.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_dash_board.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
     </leaf>
@@ -113,11 +195,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="resourceFile" />
-        <option value="layoutResourceFile" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -141,45 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/AppComponent.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ServiceComponent.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ActivityModule.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/AppModule.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ServiceModule.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/MonitorReceiver.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/SmsReceiver.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/CallsReceiver.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/AccessibilityDataService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InteractorAccessibilityData.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InterfaceAccessibility.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseInteractorService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/CallsService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InteractorCalls.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseAuth.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/Consts.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraFacing.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraImageFormat.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraResolution.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraCallbacks.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraConfig.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraError.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraPreview.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraUtils.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/PictureSizeComparator.java" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckApp.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckDetector.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckForegroundApp.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckPermission.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceInteractorService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceService.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceServiceCalls.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/calls/InterfaceInteractorCalls.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InteractorSms.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InteractorMonitorService.kt" />
@@ -187,19 +232,56 @@
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/MonitorService.kt" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/sammy/mutahi/gicheru/childSpyApp/BuildConfig.java" />
-        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" />
         <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/FirebaseModule.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/MainDashBoard.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/Constants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/EncryptionHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/QRCodeHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/ScanQrCodeActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/sammy/mutahi/gicheru/childSpyApp/ScannedActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_scan_qr_code.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/square_primary_button_drawable.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/flash_off_vector_icon.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/flash_on_vector_icon.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/back_arrow_tale_vector_icon.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_scanned.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_dash_board.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/ScanQrCodeActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/login_register.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/ScannedActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_generate_qr_code.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/SmsService.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceServiceSms.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceInteractorSms.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/GenerateQrCodeActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ChartUtils.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/card_sales.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/reports_header_bk.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_cash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraRotation.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/main_dash_board.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/models/UserObject.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/UserAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/MainDashBoard.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="1299" />
-    <option name="height" value="741" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -228,7 +310,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -238,13 +320,55 @@
             </path>
             <path>
               <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="childSpyApp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="childSpyApp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="childSpyApp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="childSpyApp" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="SpyApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,7 +382,8 @@
     <property name="android.profiler.active" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="device.picker.selection" value="0432925966004379" />
-    <property name="last_opened_file_path" value="$USER_HOME$/android-hidden-camera" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AndroidProjects/ParentSpyApp" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1568611197757" />
   </component>
@@ -266,11 +391,19 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.github.midros.child.data" />
     </key>
+    <key name="android.template.packageName">
+      <recent name="sammy.mutahi.gicheru.childSpyApp" />
+      <recent name="sammy.mutahi.gicheru.childSpyApp.ui.dashboard" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="sammy.mutahi.gicheru.childSpyApp.ui.dashboard" />
       <recent name="com.github.midros.child.services.keyData" />
       <recent name="com.github.midros.child.data.rxFirebase" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/app/src/main/java/com/github/midros/child/utils/camera" />
     </key>
@@ -430,7 +563,7 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.34796488" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.24980047" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -445,10 +578,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32899022" />
       <window_info anchor="bottom" id="Android Profiler" order="8" weight="0.52931595" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" order="10" weight="0.5081433" />
+      <window_info active="true" anchor="bottom" id="Logcat" order="10" visible="true" weight="0.5700326" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.39087948" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -459,7 +592,7 @@
       <window_info anchor="right" id="Gradle" order="5" weight="0.32960895" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Preview" order="8" weight="0.14445332" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.3216281" />
       <window_info anchor="right" id="Assistant" order="9" weight="0.32881084" />
       <window_info anchor="right" id="StringPreview" order="10" />
     </layout>
@@ -500,59 +633,260 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceInteractorService.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/SmsService.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="45">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceServiceSms.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InterfaceInteractorSms.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/sms/InteractorSms.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="225">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="e#55#499#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/InterfaceService.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ChartUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="46" column="47" lean-forward="true" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding>
+            <element signature="e#1954#1976#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseInteractor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceInteractor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceView.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InteractorMonitorService.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InteractorLogin.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="180">
+          <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <folding>
+            <element signature="e#720#763#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/InterfaceMonitorService.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceInteractorLogin.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="90">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/social/MonitorService.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceViewLogin.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="55" column="73" selection-start-line="55" selection-start-column="73" selection-end-line="55" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="e#978#1005#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/ScannedActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/GenerateQrCodeActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/EncryptionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/helper/QRCodeHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/main/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="15" column="89" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
+        <state relative-caret-position="515">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraUtils.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/reports_header_bk.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_cash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/card_sales.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login_register.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/FileHelper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/Consts.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="80" column="20" lean-forward="true" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/AsyncTaskEnableAccessibility.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#1295#1328#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraRotation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraResolution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraImageFormat.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/config/CameraFacing.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -563,16 +897,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/social/SocialActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="64" column="46" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/CameraConfig.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-213">
+        <state relative-caret-position="75">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
@@ -591,272 +918,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/PictureSizeComparator.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraUtils.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/CallsReceiver.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/HiddenCameraService.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        <state relative-caret-position="75">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/MonitorReceiver.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/hiddenCameraServiceUtils/PictureSizeComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/receiver/SmsReceiver.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckApp.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state relative-caret-position="165">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/AccessibilityDataService.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckDetector.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-840">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#69#692#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InterfaceAccessibility.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckForegroundApp.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="390">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/base/BaseInteractorService.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/checkForegroundApp/CheckPermission.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/services/accessibilityData/InteractorAccessibilityData.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
-          <caret line="140" column="24" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/sammy/mutahi/gicheru/childSpyApp/BuildConfig.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480" />
-      </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="15" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1431">
-          <caret line="110" column="39" lean-forward="true" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/PerActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxTask.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseDatabase.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="10" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/RxFirebaseAuth.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/Consts.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/app/ChildApp.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/AppComponent.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/component/ActivityComponent.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/ActivityModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/FirebaseModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="13" selection-start-line="13" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/di/module/AppModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/InterfaceFirebase.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="14" selection-start-line="14" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/data/rxFirebase/DevelopFirebase.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/utils/ConstFun.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-          <folding>
-            <element signature="e#48#809#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/InterfaceInteractor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseInteractor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceInteractorLogin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="1" selection-start-line="9" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InterfaceViewLogin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/base/BaseActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="e#50#883#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/InteractorLogin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/login/LoginActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-es/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="435">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="102" column="21" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_dash_board.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/models/UserObject.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/UserAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/sammy/mutahi/gicheru/childSpyApp/ui/dashboard/MainDashBoard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
     </entry>
