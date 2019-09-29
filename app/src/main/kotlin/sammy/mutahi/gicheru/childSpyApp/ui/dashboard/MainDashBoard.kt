@@ -17,9 +17,11 @@ import com.github.mikephil.charting.data.BarEntry
 import com.github.mikephil.charting.formatter.IndexAxisValueFormatter
 import com.github.mikephil.charting.formatter.LargeValueFormatter
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.database.*
 import com.pawegio.kandroid.d
 import com.pawegio.kandroid.startActivity
+import com.pawegio.kandroid.toast
 import kotlinx.android.synthetic.main.activity_main_dash_board.*
 import kotlinx.android.synthetic.main.main_dash_board.*
 import sammy.mutahi.gicheru.childSpyApp.R
@@ -47,7 +49,7 @@ class MainDashBoard : AppCompatActivity(){
         }
 
         fab.setOnClickListener{
-            startActivity<GenerateQrCodeActivity>()
+            startActivity<ScanQrCodeActivity>()
             finish()
         }
         /*firstActivityGenerateButton.setOnClickListener {
@@ -58,20 +60,47 @@ class MainDashBoard : AppCompatActivity(){
         }*/
     }
 
+
     private fun initCharts(){
         populateGraphData()
         populateGraphData1()
     }
 
     private fun attachRecyclerViewAdapter() {
+
         user_list.layoutManager = LinearLayoutManager(this)
 
-        userList = ArrayList<UserObjec>()
+        userList = ArrayList()
 
         //getDataFromDb
         val reference = FirebaseDatabase.getInstance().reference
         val query:Query = reference.child("qrcode")
                 .orderByKey().equalTo(FirebaseAuth.getInstance().currentUser!!.uid)
+       /* query.addChildEventListener(object:ChildEventListener{
+            override fun onCancelled(p0: DatabaseError?) {
+
+            }
+
+            override fun onChildMoved(p0: DataSnapshot?, p1: String?) {
+            }
+
+            override fun onChildChanged(p0: DataSnapshot?, p1: String?) {
+                user_list.adapter.notifyDataSetChanged()
+            }
+
+            override fun onChildAdded(p0: DataSnapshot?, p1: String?) {
+                val snapshot:DataSnapshot = p0!!.children.iterator().next()
+                val user = UserObjec()
+                user.name = snapshot.getValue(UserObjec::class.java)!!.name
+                user.date_time = snapshot.getValue(UserObjec::class.java)!!.date_time
+                userList.add(user)
+                user_list.adapter = UserAdapter(userList)
+            }
+
+            override fun onChildRemoved(p0: DataSnapshot?) {
+            }
+
+        })*/
         query.addListenerForSingleValueEvent(object:ValueEventListener{
             override fun onCancelled(p0: DatabaseError?) {
 
@@ -79,14 +108,24 @@ class MainDashBoard : AppCompatActivity(){
 
             override fun onDataChange(p0: DataSnapshot?) {
                 d("MainDashBoard","Datasnapshot: "+p0)
-                val snapshot:DataSnapshot = p0!!.children.iterator().next()
-                val user = UserObjec()
-                user.name = snapshot.getValue(UserObjec::class.java)!!.name
-                user.date_time = snapshot.getValue(UserObjec::class.java)!!.date_time
-                userList.add(user)
-                user_list.adapter = UserAdapter(userList)
+                for (userSnapshot in p0!!.children){
 
+                    for(usersnap in userSnapshot.children){
+                        usersnap.getValue(UserObjec::class.java)
+                        userList.add(usersnap.getValue(UserObjec::class.java)!!)
+                    }
+
+                }
+                /*val snapshot:DataSnapshot = p0!!.children.iterator().next()
+                val userSnapshot = snapshot.children.iterator().next()
+                val user = UserObjec()
+                user.name = userSnapshot.getValue(UserObjec::class.java)!!.name
+                user.date_time = userSnapshot.getValue(UserObjec::class.java)!!.date_time
+                userList.add(user)*/
+                user_list.adapter = UserAdapter(userList)
+                user_list.adapter.notifyDataSetChanged()
             }
+
 
 
         })
@@ -105,15 +144,15 @@ class MainDashBoard : AppCompatActivity(){
         val groupSpace: Float
         val groupCount = 4
 
-        barWidth = 0.15f
-        barSpace = 0.07f
-        groupSpace = 0.56f
+        barWidth = 1.0f
+        barSpace = 0.75f
+        groupSpace = 1.0f
 
         var xAxisValues = ArrayList<String>()
-        xAxisValues.add("Jun")
+        /*xAxisValues.add("Jun")
         xAxisValues.add("Jul")
         xAxisValues.add("Aug")
-        xAxisValues.add("Sept")
+        xAxisValues.add("Sept")*/
 
         var yValueGroup1 = ArrayList<BarEntry>()
         var yValueGroup2 = ArrayList<BarEntry>()
@@ -123,18 +162,18 @@ class MainDashBoard : AppCompatActivity(){
         var barDataSet2: BarDataSet
 
 
-        yValueGroup1.add(BarEntry(1f, floatArrayOf(9.toFloat(), 3.toFloat())))
-        yValueGroup2.add(BarEntry(1f, floatArrayOf(2.toFloat(), 7.toFloat())))
+        yValueGroup1.add(BarEntry(9f, floatArrayOf(9.toFloat(), 3.toFloat())))
+        yValueGroup2.add(BarEntry(9f, floatArrayOf(2.toFloat(), 7.toFloat())))
 
 
-        yValueGroup1.add(BarEntry(2f, floatArrayOf(3.toFloat(), 3.toFloat())))
-        yValueGroup2.add(BarEntry(2f, floatArrayOf(4.toFloat(), 15.toFloat())))
+        yValueGroup1.add(BarEntry(10f, floatArrayOf(3.toFloat(), 3.toFloat())))
+        yValueGroup2.add(BarEntry(10f, floatArrayOf(4.toFloat(), 15.toFloat())))
 
-        yValueGroup1.add(BarEntry(3f, floatArrayOf(3.toFloat(), 3.toFloat())))
-        yValueGroup2.add(BarEntry(3f, floatArrayOf(4.toFloat(), 15.toFloat())))
+        yValueGroup1.add(BarEntry(11f, floatArrayOf(3.toFloat(), 3.toFloat())))
+        yValueGroup2.add(BarEntry(11f, floatArrayOf(4.toFloat(), 15.toFloat())))
 
-        yValueGroup1.add(BarEntry(4f, floatArrayOf(3.toFloat(), 3.toFloat())))
-        yValueGroup2.add(BarEntry(4f, floatArrayOf(4.toFloat(), 15.toFloat())))
+        yValueGroup1.add(BarEntry(12f, floatArrayOf(3.toFloat(), 3.toFloat())))
+        yValueGroup2.add(BarEntry(12f, floatArrayOf(4.toFloat(), 15.toFloat())))
 
 
         barDataSet1 = BarDataSet(yValueGroup1, "")
@@ -156,7 +195,7 @@ class MainDashBoard : AppCompatActivity(){
         var barData = BarData(barDataSet1, barDataSet2)
 
         barChartView.description.isEnabled = false
-        barChartView.description.textSize = 0f
+        barChartView.description.textSize = -0.5f
         barData.setValueFormatter(LargeValueFormatter())
         barChartView.setData(barData)
         barChartView.getBarData().setBarWidth(barWidth)
@@ -230,18 +269,18 @@ class MainDashBoard : AppCompatActivity(){
         val groupSpace: Float
         val groupCount = 7
 
-        barWidth = 0.15f
-        barSpace = 0.07f
-        groupSpace = 0.56f
+        barWidth = 0.35f
+        barSpace = 0.17f
+        groupSpace = 0.96f
 
         var xAxisValues = ArrayList<String>()
-        xAxisValues.add("Mon")
-        xAxisValues.add("Tue")
-        xAxisValues.add("Wed")
-        xAxisValues.add("Thur")
-        xAxisValues.add("Fri")
-        xAxisValues.add("Sat")
-        xAxisValues.add("Sun")
+//        xAxisValues.add("Mon")
+//        xAxisValues.add("Tue")longToast("You Have Checked in At: "+getDateTime())
+//        xAxisValues.add("Wed")
+//        xAxisValues.add("Thur")
+//        xAxisValues.add("Fri")
+//        xAxisValues.add("Sat")
+//        xAxisValues.add("Sun")
 
 
         var yValueGroup1 = ArrayList<BarEntry>()
@@ -361,7 +400,6 @@ class MainDashBoard : AppCompatActivity(){
         barChartView.data = barData
         barChartView.setVisibleXRange(1f, 12f)
     }
-
 
 
 }

@@ -19,6 +19,7 @@ interface InterfaceFirebase {
     fun signOut()
 
     fun signIn(email: String, password: String): Maybe<AuthResult>
+    fun signUp(email: String, password: String): Maybe<AuthResult>
 
     fun valueEvent(child: String): Flowable<DataSnapshot>
 

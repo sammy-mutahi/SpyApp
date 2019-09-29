@@ -6,16 +6,18 @@ import android.support.v4.content.ContextCompat
 import android.util.Patterns
 import android.widget.Button
 import android.widget.EditText
-import sammy.mutahi.gicheru.childSpyApp.ui.main.MainActivity
 import sammy.mutahi.gicheru.childSpyApp.ui.base.BaseActivity
 import sammy.mutahi.gicheru.childSpyApp.utils.ConstFun.startAndFinishActivity
 import com.jakewharton.rxbinding2.widget.RxTextView
 import com.tbruyelle.rxpermissions2.RxPermissions
 import io.reactivex.Observable
 import io.reactivex.functions.BiFunction
+import kotlinx.android.synthetic.main.activity_login.*
 import kotterknife.bindView
 import sammy.mutahi.gicheru.childSpyApp.R
 import sammy.mutahi.gicheru.childSpyApp.ui.dashboard.MainDashBoard
+import sammy.mutahi.gicheru.childSpyApp.ui.fragments.PasswordReset
+import sammy.mutahi.gicheru.childSpyApp.ui.register.RegisterActivity
 import javax.inject.Inject
 
 
@@ -41,6 +43,14 @@ class LoginActivity : BaseActivity() , InterfaceViewLogin {
         getComponent()!!.inject(this)
         interactor.onAttach(this)
         permission = RxPermissions(this)
+
+        tv_forgot_password.setOnClickListener {
+            val dialog: PasswordReset = PasswordReset()
+            dialog.show(supportFragmentManager,"dialog_resetpassword")
+        }
+        tv_sign_up.setOnClickListener {
+            startAndFinishActivity<RegisterActivity>()
+        }
     }
 
     override fun onPostCreate(savedInstanceState: Bundle?) {
@@ -51,10 +61,10 @@ class LoginActivity : BaseActivity() , InterfaceViewLogin {
         onClickLogin()
     }
 
-    override fun onStart() {
+    /*override fun onStart() {
         super.onStart()
         if (interactor.user()!=null) startAndFinishActivity<MainDashBoard>()
-    }
+    }*/
 
     private fun onClickLogin(){
         btnSignIn.setOnClickListener {

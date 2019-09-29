@@ -15,12 +15,21 @@ import android.view.Window
 import android.view.WindowManager
 import android.widget.TextView
 import android.widget.Toast
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.FirebaseUser
+import com.google.firebase.database.FirebaseDatabase
 import com.google.zxing.BarcodeFormat
 import com.google.zxing.Result
+import com.pawegio.kandroid.d
+import com.pawegio.kandroid.longToast
+import com.pawegio.kandroid.startActivity
+import kotlinx.android.synthetic.main.activity_generate_qr_code.*
 import kotlinx.android.synthetic.main.activity_main_dash_board.*
 import kotlinx.android.synthetic.main.activity_scan_qr_code.*
 import me.dm7.barcodescanner.zxing.ZXingScannerView
 import sammy.mutahi.gicheru.childSpyApp.R
+import sammy.mutahi.gicheru.childSpyApp.ui.dashboard.models.UserObjec
+import sammy.mutahi.gicheru.childSpyApp.utils.ConstFun.getDateTime
 
 class ScanQrCodeActivity : AppCompatActivity(), ZXingScannerView.ResultHandler {
 
@@ -37,7 +46,9 @@ class ScanQrCodeActivity : AppCompatActivity(), ZXingScannerView.ResultHandler {
                 WindowManager.LayoutParams.FLAG_FULLSCREEN)
         setContentView(R.layout.activity_scan_qr_code)
         setScannerProperties()
-        barcodeBackImageView.setOnClickListener { onBackPressed() }
+        barcodeBackImageView.setOnClickListener {
+            startActivity<MainDashBoard>()
+            onBackPressed() }
         flashOnOffImageView.setOnClickListener {
             if (qrCodeScanner.flash) {
                 qrCodeScanner.flash = false
@@ -125,7 +136,15 @@ class ScanQrCodeActivity : AppCompatActivity(), ZXingScannerView.ResultHandler {
 
     override fun handleResult(p0: Result?) {
         if (p0 != null) {
-            startActivity(ScannedActivity.getScannedActivity(this, p0.text))
+            val currentUser:FirebaseUser? = FirebaseAuth.getInstance().currentUser
+            val name = currentUser!!.email
+            val user = UserObjec(name = name!!, date_time =  getDateTime())
+            FirebaseDatabase.getInstance().getReference("qrcode").child(FirebaseAuth.getInstance().currentUser!!.uid).push()
+                    .setValue(user)
+            longToast("Thank you $name ,You Have Checked in At: "+getDateTime())
+            startActivity<MainDashBoard>()
+            d("QR Code Contains: "+p0.text)
+            /*startActivity(ScannedActivity.getScannedActivity(this, p0.text))*/
             resumeCamera()
         }
     }

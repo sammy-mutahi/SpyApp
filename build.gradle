@@ -27,7 +27,6 @@ allprojects {
 
     ext {
         PACKAGE_CHECK_SOCIAL = "\"https://www.whatsapp.com/\""
-                ""
     }
 
 }

@@ -27,12 +27,7 @@ import sammy.mutahi.gicheru.childSpyApp.utils.checkForegroundApp.CheckPermission
 
 class MainActivity : BaseActivity() {
 
-    private val btnHideApp: Button by bindView(R.id.btn_hide_app)
     private val btnEnableService: RelativeLayout by bindView(R.id.btn_enable_service)
-    private val btnEnableOverDraw: RelativeLayout by bindView(R.id.btn_enable_overdraw)
-    private val btnEnableUsageStats: RelativeLayout by bindView(R.id.btn_enable_usage_stats)
-    private val switchOverDraw: Switch by bindView(R.id.switch_overdraw)
-    private val switchUsageStats: Switch  by bindView(R.id.switch_usage_stats)
 
     @Inject
     lateinit var firebase: InterfaceFirebase
@@ -47,7 +42,6 @@ class MainActivity : BaseActivity() {
 
     override fun onResume() {
         super.onResume()
-        checkSwitchPermissions()
     }
 
     private fun init() {
@@ -61,26 +55,16 @@ class MainActivity : BaseActivity() {
 
     }
 
-    private fun checkSwitchPermissions() {
-        switchOverDraw.isChecked = canOverDrawOtherApps()
-        switchUsageStats.isChecked = hasUsageStatsPermission()
-    }
 
     private fun onClickApp() {
-        btnHideApp.setOnClickListener {
+        /*btnHideApp.setOnClickListener {
             checkPermissions()
-        }
+        }*/
         btnEnableService.setOnClickListener {
             showAlertDialog(R.string.msg_dialog_enable_accessibility_service, android.R.string.ok) {
                 dismiss()
                 AsyncTaskEnableAccessibility(this@MainActivity).execute()
             }
-        }
-        btnEnableOverDraw.setOnClickListener {
-            openDrawOverPermissionSetting()
-        }
-        btnEnableUsageStats.setOnClickListener {
-            openUseAccessSettings()
         }
     }
 

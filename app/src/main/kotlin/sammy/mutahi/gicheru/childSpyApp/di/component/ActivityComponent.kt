@@ -6,6 +6,7 @@ import sammy.mutahi.gicheru.childSpyApp.ui.login.LoginActivity
 import sammy.mutahi.gicheru.childSpyApp.ui.main.MainActivity
 import sammy.mutahi.gicheru.childSpyApp.ui.social.SocialActivity
 import dagger.Component
+import sammy.mutahi.gicheru.childSpyApp.ui.register.RegisterActivity
 
 
 @PerActivity
@@ -13,6 +14,7 @@ import dagger.Component
 interface ActivityComponent {
 
     fun inject(loginActivity: LoginActivity)
+    fun inject(registerActivity: RegisterActivity)
     fun inject(mainActivity: MainActivity)
     fun inject(socialActivity: SocialActivity)
 

@@ -39,10 +39,10 @@ class GenerateQrCodeActivity : AppCompatActivity() {
         generateQrCodeButton.setOnClickListener {
             if (checkEditText()) {
                 hideKeyboard()
-
                 val user = UserObjec(name = fullNameEditText.text.toString(), date_time =  getDateTime())
                 FirebaseDatabase.getInstance().getReference("qrcode").child(FirebaseAuth.getInstance().currentUser!!.uid)
                         .setValue(user)
+
                 val serializeString = Gson().toJson(user)
                 val encryptedString = EncryptionHelper.getInstance().encryptionString(serializeString).encryptMsg()
                 setImageBitmap(encryptedString)
@@ -77,7 +77,7 @@ class GenerateQrCodeActivity : AppCompatActivity() {
             Toast.makeText(this, "fullName field cannot be empty!", Toast.LENGTH_SHORT).show()
             return false
         } else if (TextUtils.isEmpty(localDateTime.text.toString())) {
-            Toast.makeText(this, "age field cannot be empty!", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "DateTime linkedfield cannot be empty!", Toast.LENGTH_SHORT).show()
             return false
         }
         return true

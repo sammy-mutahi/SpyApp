@@ -29,63 +29,6 @@
             android:layout_height="1dp"
             android:background="@color/colorTextDisabled" />
 
-        <RelativeLayout
-            android:id="@+id/btn_enable_overdraw"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="?android:attr/selectableItemBackground"
-            android:clickable="true"
-            android:focusable="true"
-            android:padding="16dp">
-
-            <TextView
-                style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/enable_overdraw"
-                android:textColor="@color/common_google_signin_btn_text_dark_focused"
-                tools:ignore="RelativeOverlap" />
-
-            <Switch
-                android:id="@+id/switch_overdraw"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentEnd="true"
-                android:clickable="false" />
-
-        </RelativeLayout>
-
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="1dp"
-            android:background="@color/colorTextDisabled" />
-
-        <RelativeLayout
-            android:id="@+id/btn_enable_usage_stats"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="?android:attr/selectableItemBackground"
-            android:clickable="true"
-            android:focusable="true"
-            android:padding="16dp">
-
-            <TextView
-                style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/enable_usage_stats"
-                android:textColor="@color/common_google_signin_btn_text_dark_focused"
-                tools:ignore="RelativeOverlap" />
-
-            <Switch
-                android:id="@+id/switch_usage_stats"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentEnd="true"
-                android:clickable="false" />
-
-        </RelativeLayout>
-
         <View
             android:layout_width="match_parent"
             android:layout_height="1dp"
@@ -104,7 +47,7 @@
                 style="@style/Base.TextAppearance.AppCompat.Medium"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/enable_service"
+                android:text="CONNECT TO DEVICE"
                 android:textColor="@color/common_google_signin_btn_text_dark_focused" />
 
 
@@ -116,18 +59,5 @@
             android:background="@color/colorTextDisabled" />
 
     </LinearLayout>
-
-    <Button
-        android:id="@+id/btn_hide_app"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/colorAccent"
-        android:text="@string/hide_app"
-        android:textAllCaps="false"
-        android:textColor="@android:color/white"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearlayout" />
 
 </android.support.constraint.ConstraintLayout>

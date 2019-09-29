@@ -9,4 +9,8 @@ import io.reactivex.Maybe
 object RxFirebaseAuth {
     fun FirebaseAuth.rxSignInWithEmailAndPassword(email: String, password: String): Maybe<AuthResult> =
             Maybe.create { emiter -> assignOnTask(emiter, signInWithEmailAndPassword(email, password)) }
+
+    fun FirebaseAuth.rxCreateUserWithEmailAndPassword(email: String, password: String): Maybe<AuthResult> =
+            Maybe.create { emitter -> assignOnTask(emitter, createUserWithEmailAndPassword(email, password)) }
+
 }

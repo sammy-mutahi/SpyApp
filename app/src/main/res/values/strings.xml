@@ -37,6 +37,12 @@
     <string name="login_password_hint" translatable="false">Password</string>
     <string name="signup_login_hint" translatable="false">Already have an account? Sign In</string>
     <string name="login_signup_hint" translatable="false">Don\'t have an account? Sign Up</string>
+    <string name="total_attendance">Total Attendance</string>
+    <string name="_7days_week">7Days/Week</string>
+    <string name="four_month_s_analysis">Four Month\'s Analysis</string>
+    <string name="this_week_analysis">This Week Analysis</string>
+    <string name="_01_april_2019">01 April 2019</string>
+    <string name="scan_qr_code">Scan QR Code</string>
 
 
 </resources>

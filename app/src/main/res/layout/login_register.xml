@@ -45,7 +45,7 @@
                 <TextView
                     style="@style/headerText"
                     android:layout_gravity="center"
-                    android:text="Car Dealer"
+                    android:text="Motor Dealer"
                     android:layout_marginTop="40dp"/>
                 <include
                     layout="@layout/activity_login"/>

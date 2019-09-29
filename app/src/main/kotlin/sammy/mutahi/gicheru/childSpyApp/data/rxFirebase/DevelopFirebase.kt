@@ -15,6 +15,7 @@ import io.reactivex.Single
 import javax.inject.Inject
 
 import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.RxFirebaseAuth.rxSignInWithEmailAndPassword
+import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.RxFirebaseAuth.rxCreateUserWithEmailAndPassword
 import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.RxFirebaseDatabase.rxObserveValueEvent
 import sammy.mutahi.gicheru.childSpyApp.data.rxFirebase.RxFirebaseStorage.rxPutFile
 
@@ -27,9 +28,14 @@ class DevelopFirebase @Inject constructor(private val auth: FirebaseAuth,
 
     override fun signIn(email: String, password: String): Maybe<AuthResult> = auth.rxSignInWithEmailAndPassword(email, password)
 
+    override fun signUp(email: String, password: String): Maybe<AuthResult> =
+            auth.rxCreateUserWithEmailAndPassword(email, password)
+
+
     override fun signOut() = auth.signOut()
 
     override fun getDatabaseReference(child: String): DatabaseReference = dataRef.child(USER).child(getUser()!!.uid).child(child)
+
 
     override fun valueEvent(child: String): Flowable<DataSnapshot> = getDatabaseReference(child).rxObserveValueEvent()
 

